@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Music_Store", "Music_Store\Music_Store.pyproj", "{6F23C70F-92F4-4B47-B5DC-D283B880CF9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F23C70F-92F4-4B47-B5DC-D283B880CF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F23C70F-92F4-4B47-B5DC-D283B880CF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F23C70F-92F4-4B47-B5DC-D283B880CF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F23C70F-92F4-4B47-B5DC-D283B880CF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18A26FD9-0FFD-4A2F-9BFC-E41859113ECE}
+	EndGlobalSection
+EndGlobal
