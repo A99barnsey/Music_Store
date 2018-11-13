@@ -1,4 +1,4 @@
-#!F:\OneDrive\Visual Studio 2017 Projects\Web\MVA_Music_Store\Music_Store\Music_Store\venv\Scripts\python.exe
+#!f:\onedrive\visual studio 2017 projects\web\mva_music_store\music_store\music_store\venv\scripts\python.exe
 from django.core import management
 
 if __name__ == "__main__":
