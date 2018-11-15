@@ -56,6 +56,9 @@
     <Folder Include="Music_Store\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\templates\app\artistdetails.html" />
+    <Content Include="app\templates\app\artists.html" />
+    <Content Include="app\templates\app\create.html" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />
@@ -93,6 +96,15 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Interpreter Include="env_django_2\">
+      <Id>env_django_2</Id>
+      <Version>3.7</Version>
+      <Description>env_django_2 (Python 3.7 (32-bit))</Description>
+      <InterpreterPath>Scripts\python.exe</InterpreterPath>
+      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
+      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
+      <Architecture>X86</Architecture>
+    </Interpreter>
     <Interpreter Include="venv\">
       <Id>venv</Id>
       <Version>3.7</Version>
